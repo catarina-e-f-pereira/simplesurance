@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T23:56:27 WEST" name="Suite1" finished-at="2024-06-20T23:56:53 WEST" duration-ms="26005">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T23:56:27 WEST" name="Basic String ane Arithmatic Operations" finished-at="2024-06-20T23:56:53 WEST" duration-ms="26005">
+      <class name="simplesurance.CreateSingleInsuranceWithDebitTestRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:simplesurance.CreateSingleInsuranceWithDebitTestRunner@7e9a5fbe]" started-at="2024-06-20T23:56:30 WEST" name="setup" finished-at="2024-06-20T23:56:32 WEST" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:simplesurance.CreateSingleInsuranceWithDebitTestRunner@7e9a5fbe]" started-at="2024-06-20T23:56:34 WEST" name="testLogin" finished-at="2024-06-20T23:56:35 WEST" duration-ms="1226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testCreateInsuranceWithDebit()[pri:1, instance:simplesurance.CreateSingleInsuranceWithDebitTestRunner@7e9a5fbe]" started-at="2024-06-20T23:56:35 WEST" name="testCreateInsuranceWithDebit" finished-at="2024-06-20T23:56:42 WEST" duration-ms="7210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateInsuranceWithDebit -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:simplesurance.CreateSingleInsuranceWithDebitTestRunner@7e9a5fbe]" started-at="2024-06-20T23:56:53 WEST" name="quitDriver" finished-at="2024-06-20T23:56:53 WEST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- simplesurance.CreateSingleInsuranceWithDebitTestRunner -->
+      <class name="simplesurance.CreateSingleInsuranceWithCardTestRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:simplesurance.CreateSingleInsuranceWithCardTestRunner@44a3ec6b]" started-at="2024-06-20T23:56:27 WEST" name="setup" finished-at="2024-06-20T23:56:30 WEST" duration-ms="2533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:simplesurance.CreateSingleInsuranceWithCardTestRunner@44a3ec6b]" started-at="2024-06-20T23:56:42 WEST" name="testLogin" finished-at="2024-06-20T23:56:44 WEST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testCreateInsuranceWithCard()[pri:1, instance:simplesurance.CreateSingleInsuranceWithCardTestRunner@44a3ec6b]" started-at="2024-06-20T23:56:44 WEST" name="testCreateInsuranceWithCard" finished-at="2024-06-20T23:56:51 WEST" duration-ms="7357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateInsuranceWithCard -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:simplesurance.CreateSingleInsuranceWithCardTestRunner@44a3ec6b]" started-at="2024-06-20T23:56:53 WEST" name="quitDriver" finished-at="2024-06-20T23:56:53 WEST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- simplesurance.CreateSingleInsuranceWithCardTestRunner -->
+      <class name="simplesurance.ImportMultipleInsuranceTestRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:simplesurance.ImportMultipleInsuranceTestRunner@71623278]" started-at="2024-06-20T23:56:32 WEST" name="setup" finished-at="2024-06-20T23:56:34 WEST" duration-ms="2096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testLogin()[pri:0, instance:simplesurance.ImportMultipleInsuranceTestRunner@71623278]" started-at="2024-06-20T23:56:51 WEST" name="testLogin" finished-at="2024-06-20T23:56:52 WEST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testImportInsurance()[pri:1, instance:simplesurance.ImportMultipleInsuranceTestRunner@71623278]" started-at="2024-06-20T23:56:52 WEST" name="testImportInsurance" finished-at="2024-06-20T23:56:53 WEST" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImportInsurance -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:simplesurance.ImportMultipleInsuranceTestRunner@71623278]" started-at="2024-06-20T23:56:53 WEST" name="quitDriver" finished-at="2024-06-20T23:56:53 WEST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- simplesurance.ImportMultipleInsuranceTestRunner -->
+    </test> <!-- Basic String ane Arithmatic Operations -->
+  </suite> <!-- Suite1 -->
+</testng-results>
